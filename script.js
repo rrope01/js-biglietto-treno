@@ -10,3 +10,5 @@ if (age < 18) {
     finalPrice = pricePerKm * distance;
 }
 console.log(`Il prezzo del biglietto è: ${finalPrice.toFixed(2)}€`);
+
+// ma come tolgo la parentesi per l' if?
